@@ -12,6 +12,7 @@ h1{
     font-size:28px;
     padding:30px;
     text-align:center;
+    margin-top:0;
 
 }
 
@@ -27,6 +28,7 @@ h3 {
 #main-bio {
     float:left;
     width:70%;
+    line-height:1.5em;
 }
 
 #contact-info{
